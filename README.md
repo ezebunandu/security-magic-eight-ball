@@ -10,8 +10,8 @@ A UI could be created for calling the endpoint by spinning a ball (can't code UI
 
 ## Things I plan to Explore
 
-- Review the infrastructure that the serverless framework creates for you from a security perspective
-- Trying building all the components using Terraform to highlight how much the abstractions the framework provides simplifies deploying APIs
+- Review the infrastructure that the serverless framework creates for from a security perspective
+- Try building all the components using Terraform to highlight how much using the Serverless framework abstracts and simplifies the process.
 - Any security anti-patterns or unsafe default settings?
 - Implement API Key authentication and rate limiting on the endpoint
 
